@@ -90,5 +90,8 @@
   },
   "peerDependencies": {
     "@pm2/agent": "^2.0.3"
+  },
+  "engines": {
+    "node": "18.x"
   }
 }
